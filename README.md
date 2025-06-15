@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Steve Kiplangat 👋
 
-<!--
-**HexTech254/HexTech254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | Data Scientist | UI/UX Designer | Digital Marketer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a versatile software developer and data scientist skilled in Python, Laravel, Flutter, and R. I combine technical expertise with a strong sense for design (UI/UX) and business intelligence, enabling me to deliver solutions that are both user-friendly and data-driven.
+
+I specialize in:
+- **Full-Stack Development:** Python, Laravel, Flutter
+- **Data Science & Analytics:** R, Power BI, Tableau
+- **Data Transformation, Automation, Visualization, Modeling, Predictive Analysis, and Statistics**
+- **UI/UX Design**
+- **Digital Marketing:** SEO, strategy & implementation
+
+## Projects
+
+- [Auctioneer](https://github.com/your-github-username/auctioneer)
+- [Telvix.tech](https://telvix.tech)
+- [Kwakamande.space](https://kwakamande.space)
+
+## Let's Connect
+
+- **Email:** hexenterprize@gmail.com
+- **LinkedIn:** [Steve Kiplangat](https://www.linkedin.com/in/steve-kiplangat-59b03a354/)
+
+---
+
+### Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=flat&logo=google&logoColor=white)
+
+---
+
+> “Turning data into actionable insights and code into seamless experiences.”
